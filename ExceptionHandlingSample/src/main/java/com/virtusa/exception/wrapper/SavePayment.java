@@ -21,7 +21,7 @@ public class SavePayment{
 			}
 			catch(FileNotFoundException  e) { 
 				
-				 throw new CustomRuntimeException("Cause by file not found"); 
+				 throw new CustomRuntimeException("File is not found"); 
 				 
 			}
 			 
