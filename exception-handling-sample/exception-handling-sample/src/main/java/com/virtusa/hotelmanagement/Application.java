@@ -21,21 +21,21 @@ public static void main (String[] args)   	{
 		int roomCount = sc.nextInt();
 		
 		Payment payment = new Payment();
-	    double price = payment.calcualatePayment(roomCount,stayDayCount,cardNumber);
+	        double price = payment.calcualatePayment(roomCount,stayDayCount,cardNumber);
 		System.out.print(price);
-	    AvailableRoom availableRoom =new AvailableRoom();
-	    availableRoom.calRoomCount(roomCount);
+	        AvailableRoom availableRoom =new AvailableRoom();
+	        availableRoom.calRoomCount(roomCount);
 			
 
 				
-	}
+	    }
 	
-   catch(CustomPointNullException e) {
-	    e.printStackTrace();
+         catch(CustomPointNullException e) {
+	        e.printStackTrace();
 		System.err.println( " Payment cannot proceed  " + e );	
 		
 	}
 
 	
-}
+   }
 }
