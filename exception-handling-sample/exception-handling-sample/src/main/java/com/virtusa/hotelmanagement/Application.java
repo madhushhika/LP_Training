@@ -8,7 +8,8 @@ public class Application {
 	
 private static Scanner sc;
 
-public static void main (String[] args)   	{
+public static void main (String[] args) {
+	
 	try {
 		sc = new Scanner(System.in);
 		System.out.println("Please enter the room number ");
