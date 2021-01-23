@@ -17,7 +17,7 @@ public class ReverseNumber{
 			number =number /10;	
 		       }
 		
-		System.out.println("Revered Number = " + reversedNumber);
+		  System.out.println("Revered Number = " + reversedNumber);
 			
 	}
 	
