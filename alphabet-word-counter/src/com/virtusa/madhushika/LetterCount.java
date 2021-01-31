@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 
 public class LetterCount {
 	private int sum;
-	private int wordCount = 0;
+	private int wordCount;
 
 	public void letterforEach(String word) throws NullPointerException,InputMismatchException {
 		if ("".equals(word)) {
