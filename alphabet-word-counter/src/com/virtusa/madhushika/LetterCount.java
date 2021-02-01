@@ -29,6 +29,7 @@ public class LetterCount {
 			}
 			if (wordCount > 0) {
 				System.out.println(letter + "=" + wordCount);
+				wordCount=0;
 				
 			}
 		}
