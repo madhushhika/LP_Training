@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import com.virtusa.exception.*;
+import com.madhushika.exception.*;
 
 public class SavePayment{
 	
