@@ -1,4 +1,4 @@
-package com.virtusa.madhushika;
+package com.madhushika;
 
 import java.util.Scanner;
 
