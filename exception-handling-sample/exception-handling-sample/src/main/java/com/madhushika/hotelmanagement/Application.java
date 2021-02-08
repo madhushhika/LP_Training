@@ -2,7 +2,7 @@ package com.madhushika.hotelmanagement;
 
 import java.util.Scanner;
 
-import com.virtusa.exception.*;
+import com.madhushika.exception.*;
 
 public class Application {
 	
