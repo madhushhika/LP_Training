@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.madhushika.auth.authserver.AuthServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.754 s - in com.madhushika.auth.authserver.AuthServerApplicationTests

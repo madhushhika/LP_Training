@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "com.baeldung.timeoutInMilliSeconds",
+      "type": "java.lang.String",
+      "description": "Description for com.baeldung.timeoutInMilliSeconds."
+    },
+    {
+      "name": "com.baeldung.timeout-in-milli-seconds",
+      "type": "java.lang.Integer",
+      "description": "The time to wait for the connection.",
+      "sourceType": "com.baeldung.configuration.processor.CustomProperties",
+      "defaultValue": 1000
+    }
+  ] }

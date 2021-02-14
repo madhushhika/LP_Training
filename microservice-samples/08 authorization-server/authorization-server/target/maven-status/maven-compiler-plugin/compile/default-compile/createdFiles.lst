@@ -1,0 +1,9 @@
+com\madhushika\auth\authserver\model\Role.class
+com\madhushika\auth\authserver\model\User.class
+com\madhushika\auth\authserver\service\UserDetailServiceImpl.class
+com\madhushika\auth\authserver\model\Permission.class
+com\madhushika\auth\authserver\conf\AuthServerConfiguration.class
+com\madhushika\auth\authserver\repository\UserDetailRepository.class
+com\madhushika\auth\authserver\AuthServerApplication.class
+com\madhushika\auth\authserver\conf\UserConfiguration.class
+com\madhushika\auth\authserver\model\AuthUserDetail.class
